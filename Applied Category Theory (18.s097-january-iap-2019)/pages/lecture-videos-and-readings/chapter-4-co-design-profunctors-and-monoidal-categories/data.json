@@ -1,0 +1,6 @@
+
+{
+  "title":"Chapter 4: Co-design: Profunctors and Monoidal Categories",
+  "content":"« Previous | Next » Lecture Videos Session 7\nChapter 4: Co-design: Profunctors and Monoidal Categories Part 1\nby Dr. David I. Spivak\nSession 8\nChapter 4: Co-design: Profunctors and Monoidal Categories Part 2\nby Dr. Brendan Fong\nReadings Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: An Invitation to Applied Category Theory: Seven Sketches in Compositionality (PDF - 2.6MB).\nChapter 4: Co-design: Profunctors and Monoidal Categories (PDF)\n4.1 Can we build it?\n4.2 Enriched profunctors\n4.2.1 Feasibility relationships as Bool-profunctors\n4.2.2 \\(\\mathcal{V}\\)-profunctors\n4.2.3 Back to co-design diagrams\n4.3 Categories of profunctors\n4.3.1 Composing profunctors\n4.3.2 The categories \\(\\mathcal{V}\\)-Prof and Feas\n4.3.3 Fun profunctor facts: companions, conjoints, collages\n4.4 Categorification\n4.4.1 The basic idea of categorification\n4.4.2 A reflection on wiring diagrams\n4.4.3 Monoidal categories\n4.4.4 Categories enriched in a symmetric monoidal category\n4.5 Profunctors form a compact closed category\n4.5.1 Compact closed categories\n4.5.2 Feas as a compact closed category\n4.6 Summary and further reading\n« Previous | Next »\n"}
+
+

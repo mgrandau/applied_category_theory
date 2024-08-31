@@ -1,0 +1,26 @@
+{
+  "course_title":"Applied Category Theory ",
+  "course_description":"Category theory is a relatively new branch of mathematics that has transformed much of pure math research. The technical advance is that category theory provides a framework in which to organize formal systems and by which to translate between them, allowing one to transfer knowledge from one field to another. But this same organizational framework also has many compelling examples outside of pure math. In this course, we will give seven sketches on real-world applications of category theory.\n",
+  "course_description_html":"Category theory is a relatively new branch of mathematics that has transformed much of pure math research. The technical advance is that category theory provides a framework in which to organize formal systems and by which to translate between them, allowing one to transfer knowledge from one field to another. But this same organizational framework also has many compelling examples outside of pure math. In this course, we will give seven sketches on real-world applications of category theory.",
+  "site_uid":"3ad7a3ea-522f-4f98-8d49-a6920282b925",
+  "legacy_uid":"4c18cb69-c2d3-b8ce-ad4d-458ff8e892bf","instructors": [{
+    "first_name":"David",
+    "last_name":"Spivak",
+    "middle_initial":"I.",
+    "salutation":"Dr.",
+    "title":"Dr. David I. Spivak"},{
+    "first_name":"Brendan",
+    "last_name":"Fong",
+    "middle_initial":"",
+    "salutation":"Dr.",
+    "title":"Dr. Brendan Fong"}],"department_numbers":["18"],
+  "learning_resource_types":["Lecture Videos","Problem Sets","Online Textbook","Instructor Insights"],
+  "topics":[["Mathematics"],["Mathematics","Applied Mathematics"],["Mathematics","Topology and Geometry"]],
+  "primary_course_number":"18.S097",
+  "extra_course_numbers":"",
+  "term":"January IAP",
+  "year":"2019",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/0d866f14140a2414ef83284d4b5fee6e_18-s097iap19.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/18-s097-applied-category-theory-january-iap-2019/0d866f14140a2414ef83284d4b5fee6e_18-s097iap19.jpg","file_size":50342,"file_type":"image/jpeg","image_metadata":{"caption":"A signal flow graph with different types of signal processing units.","credit":"","image-alt":"One rectangle and 4 squares connected by lines and curves."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"18-s097iap19.jpg","uid":"0d866f14-140a-2414-ef83-284d4b5fee6e"}}
+

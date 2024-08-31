@@ -1,0 +1,6 @@
+
+{
+  "title":"Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages",
+  "content":"« Previous | Next » Lecture Videos Session 13\nChapter 7: Logic of Behavior: Sheaves, Toposes, Languages Part 1\nby Dr. David I. Spivak\nSession 14\nChapter 7: Logic of Behavior: Sheaves, Toposes, Languages Part 2\nby Dr. Brendan Fong\nReadings Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: An Invitation to Applied Category Theory: Seven Sketches in Compositionality (PDF - 2.6MB).\nChapter 7: Logic of Behavior: Sheaves, Toposes, Languages (PDF)\n7.1 How can we prove our machine is safe?\n7.2 The category Set as an exemplar topos\n7.2.1 Set-like properties enjoyed by any topos\n7.2.2 The subobject classifier\n7.2.3 Logic in the topos Set\n7.3 Sheaves\n7.3.1 Presheaves\n7.3.2 Topological spaces\n7.3.3 Sheaves on topological spaces\n7.4 Toposes\n7.4.1 The subobject classifier \\(\\Omega\\) in a sheaf topos\n7.4.2 Logic in a sheaf topos\n7.4.3 Predicates\n7.4.4 Quantification\n7.4.5 Modalities\n7.4.6 Type theories and semantics\n7.5 A topos of behavior types\n7.5.1 The interval domain\n7.5.2 Sheaves on \\(\\mathbb{IR}\\)\n7.5.3 Safety proofs in temporal logic\n7.6 Summary and further reading\n« Previous | Next »\n"}
+
+
