@@ -29,6 +29,7 @@ install_poetry: check_poetry
 install_dependencies: install_poetry
 	$(call log, "Installing dependencies using Poetry...")
 	poetry install | tee -a $(LOG_FILE)
+	chmod +x .venv/bin/activate
 
 # Main setup target
 setup: install_dependencies
