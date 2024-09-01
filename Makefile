@@ -30,6 +30,7 @@ install_dependencies: install_poetry
 	$(call log, "Installing dependencies using Poetry...")
 	poetry install | tee -a $(LOG_FILE)
 	chmod +x .venv/bin/activate
+	chmod +x .venv/bin/activate.fish
 
 # Main setup target
 setup: install_dependencies
